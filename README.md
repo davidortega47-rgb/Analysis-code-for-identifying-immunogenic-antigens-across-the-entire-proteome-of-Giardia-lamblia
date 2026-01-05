@@ -2,7 +2,7 @@
 
 Laboratorio de Inmunología y Biología Celular – Universidad de Sonora
 
-This repository contains a set of tools designed for the processing and analysis of immunological data at Universidad de Sonora.
+This repository contains a set of tools designed for identifying immunogenic antigens across the entire proteome of Giardia lamblia.
 
 ## Usage 
 
