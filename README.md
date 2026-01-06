@@ -39,7 +39,9 @@ Inside the results directory, you will find:
 
 * test_data/: (TBD) Sample data for testing the pipeline.
 
-* ProteomaGS/: (TBD) Storage for proteome-specific files.
+* GSproteome/: (TBD) Storage for proteome-specific files.
+
+* WBproteome/: (TBD) Storage for proteome-specific files.
 
 ## Basic Workflow
 
