@@ -41,8 +41,6 @@ Inside the results directory, you will find:
 
 * ProteomaGS/: (TBD) Storage for proteome-specific files.
 
-* venv/: Directory containing the local virtual environment.
-
 ## Basic Workflow
 
 The data pipeline follows a sequential flow:
